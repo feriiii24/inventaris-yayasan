@@ -1,0 +1,34 @@
+Check unit login output (generated 2026-08-19T23:30:59+07:00)
+
+7 admin.unit1@yayasan.id unit_id=1 password_check=FAIL
+8 admin.unit2@yayasan.id unit_id=2 password_check=FAIL
+9 admin.unit3@yayasan.id unit_id=3 password_check=FAIL
+10 admin.unit4@yayasan.id unit_id=4 password_check=FAIL
+11 admin.unit5@yayasan.id unit_id=5 password_check=FAIL
+12 admin.unit6@yayasan.id unit_id=6 password_check=FAIL
+13 admin.unit7@yayasan.id unit_id=7 password_check=FAIL
+14 admin.unit8@yayasan.id unit_id=8 password_check=FAIL
+15 admin.unit9@yayasan.id unit_id=9 password_check=FAIL
+16 admin.unit10@yayasan.id unit_id=10 password_check=FAIL
+17 admin.u01@yayasan.id unit_id=1 password_check=FAIL
+18 admin.u02@yayasan.id unit_id=2 password_check=FAIL
+19 admin.u03@yayasan.id unit_id=3 password_check=FAIL
+20 admin.u04@yayasan.id unit_id=4 password_check=FAIL
+21 admin.u05@yayasan.id unit_id=5 password_check=FAIL
+22 admin.u06@yayasan.id unit_id=6 password_check=FAIL
+23 admin.u07@yayasan.id unit_id=7 password_check=FAIL
+24 admin.u08@yayasan.id unit_id=8 password_check=FAIL
+25 admin.u09@yayasan.id unit_id=9 password_check=FAIL
+26 admin.u10@yayasan.id unit_id=10 password_check=FAIL
+30 unit1@yayasan.id unit_id=1 password_check=OK
+31 unit2@yayasan.id unit_id=2 password_check=OK
+32 unit3@yayasan.id unit_id=3 password_check=OK
+33 unit4@yayasan.id unit_id=4 password_check=OK
+34 unit5@yayasan.id unit_id=5 password_check=OK
+35 unit6@yayasan.id unit_id=6 password_check=OK
+36 unit7@yayasan.id unit_id=7 password_check=OK
+37 unit8@yayasan.id unit_id=8 password_check=OK
+38 unit9@yayasan.id unit_id=9 password_check=OK
+39 unit10@yayasan.id unit_id=10 password_check=OK
+
+Done
